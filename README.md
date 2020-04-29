@@ -1,4 +1,4 @@
-(https://github.com/dapetoo/D-Card/blob/master/flutter_01.png)
+![Screenshot](https://github.com/dapetoo/D-Card/blob/master/flutter_01.png)
 # A Simple Flutter App
 
 A new Flutter project.
