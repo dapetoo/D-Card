@@ -75,7 +75,7 @@ class _MyHomePageState extends State<MyHomePage> {
                     color: Colors.teal,
                   ),
                   title: Text(
-                    '+234 8164 04 6961',
+                    '+4123485656961',
                     style: TextStyle(
                         fontSize: 21.0,
                         fontFamily: 'Source Sans ',
@@ -90,7 +90,7 @@ class _MyHomePageState extends State<MyHomePage> {
                     color: Colors.teal,
                   ),
                   title: Text(
-                    'dapetoo@gmail.com',
+                    'example@abc.com',
                     style: TextStyle(
                         fontSize: 21.0,
                         fontFamily: 'Source Sans ',
